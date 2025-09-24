@@ -1,0 +1,183 @@
+
+
+export const details = [
+ 
+   
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/jaki9218.png",
+        name:"Jaki-9218",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/g5.png",
+        name:"G-5",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/jg11.png",
+        name:"JG-11",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/kashipur19.png",
+        name:"Kahsipur-19",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/namamisumo.png",
+        name:"Namami Sumo",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/pkvkabull.png",
+        name:"PKV Kabull-2",
+        details:"",
+    },
+    {
+        crop:"chana",
+        season:"rabi",
+        image:"/paramseeds/vijay.png",
+        name:"Vijay",
+        details:"",
+    },
+    {
+        crop:"paddy",
+        season:"kharif",
+        image:"/paramseeds/namamiprpv99.png",
+        name:"Namami PRPV 99",
+        details:"",
+    },
+    {
+        crop:"maize",
+        season:"kharif",
+        image:"/paramseeds/gangakashi909.png",
+        name:"Gangakashi 909",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/js335.png",
+        name:"JS 335",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/js9560.png",
+        name:"JS 9560",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/js9305.png",
+        name:"JS 9305",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/kds726.png",
+        name:"KDS-726",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/kds753.png",
+        name:"KDS 753(kimya)",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/maus612.png",
+        name:"MAUS 612",
+        details:"",
+    },
+    {
+        crop:"soyabean",
+        season:"kharif",
+        image:"/paramseeds/vaj99.png",
+        name:"VAJ 99",
+        details:"",
+    },
+    {
+        crop:"moong",
+        season:"kharif",
+        image:"/paramseeds/pdm139.png",
+        name:"PDM 139",
+        details:"",
+    },
+    {
+        crop:"urad",
+        season:"kharif",
+        image:"/paramseeds/tau1.png",
+        name:"TAU 1",
+        details:"",
+    },
+    {
+        crop:"toor",
+        season:"kharif",
+        image:"/paramseeds/icp8863.png",
+        name:"ICP-8863",
+        details:"",
+    },
+    {
+        crop:"seasame",
+        season:"kharif",
+        image:"/paramseeds/gujrat2.png",
+        name:"Gujrat-2",
+        details:"",
+    },
+ 
+    {
+        crop:"wheat",
+        season:"rabi",
+        image:"/paramseeds/namami1111.png",
+        name:"Namami-1111",
+        details:"",
+    },
+    {
+        crop:"wheat",
+        season:"rabi",
+        image:"/paramseeds/purnasharbati.png",
+        name:"Purna Sharbati",
+        details:"",
+    },
+    {
+        crop:"wheat",
+        season:"rabi",
+        image:"/paramseeds/lok1.png",
+        name:"LOK-1",
+        details:"",
+    },
+   
+]
+
+
+export const crops = [
+    { key: "soyabean", name: "🫘 Soybean / सोयाबीन" },
+    { key: "methi", name: "🌿 Methi / मेथी" },
+    { key: "wheat", name: "🌾 Wheat / गेहूं" },
+    { key: "chana", name: " 🌰 Chana / चना" },
+    { key: "maize", name: "🌽 Maize / मक्का" },
+    { key: "moong", name: "🟢 Moong / मूंग" },
+    { key: "paddy", name: "🌾 Paddy / धान" },
+    { key: "sesame", name: "🫒 Sesame / तिल" },
+    { key: "toor", name: "🫘 Toor / तूर" },
+    { key: "urad", name: "⚫ Urad / उड़द" },
+]
