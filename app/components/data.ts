@@ -98,7 +98,7 @@ export const details = [
         crop:"soyabean",
         season:"kharif",
         image:"/paramseeds/kds753.png",
-        name:"KDS 753(कीमिया)",
+        name:"KDS 753(किमया)",
         details:"",
     },
     {
