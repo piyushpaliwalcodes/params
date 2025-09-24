@@ -188,10 +188,12 @@ export default function Home() {
       maize: "🌽 Maize / मक्का",
       moong: "🟢 Moong / मूंग",
       paddy: "🌾 Paddy / धान",
-      sesame: "🫒 Sesame / तिल",
+      sesame: "⚪️ Sesame / तिल",
       toor: "🫘 Toor / तूर",
       urad: "⚫ Urad / उड़द",
     };
+
+    
 
     return availableCrops.map((crop) => ({
       key: crop,

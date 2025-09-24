@@ -28,7 +28,7 @@ export const details = [
         crop:"chana",
         season:"rabi",
         image:"/paramseeds/kashipur19.png",
-        name:"Kahsipur-19",
+        name:"Kashipur-19",
         details:"",
     },
     {
@@ -98,7 +98,7 @@ export const details = [
         crop:"soyabean",
         season:"kharif",
         image:"/paramseeds/kds753.png",
-        name:"KDS 753(kimya)",
+        name:"KDS 753(कीमिया)",
         details:"",
     },
     {
@@ -137,7 +137,7 @@ export const details = [
         details:"",
     },
     {
-        crop:"seasame",
+        crop:"sesame",
         season:"kharif",
         image:"/paramseeds/gujrat2.png",
         name:"Gujrat-2",
