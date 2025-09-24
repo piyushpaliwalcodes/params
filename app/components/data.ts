@@ -170,7 +170,7 @@ export const details = [
 
 
 export const crops = [
-    { key: "soyabean", name: "🫘 Soybean / सोयाबीन" },
+    { key: "soyabean", name: "🫘 Soyabean / सोयाबीन" },
     { key: "methi", name: "🌿 Methi / मेथी" },
     { key: "wheat", name: "🌾 Wheat / गेहूं" },
     { key: "chana", name: " 🌰 Chana / चना" },
